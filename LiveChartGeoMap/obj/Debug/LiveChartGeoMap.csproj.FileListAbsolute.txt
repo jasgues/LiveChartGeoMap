@@ -8,3 +8,15 @@ C:\Users\Mensi\source\repos\LiveChartGeoMap\LiveChartGeoMap\obj\Debug\LiveChartG
 C:\Users\Mensi\source\repos\LiveChartGeoMap\LiveChartGeoMap\obj\Debug\LiveChartGeoMap.csproj.CoreCompileInputs.cache
 C:\Users\Mensi\source\repos\LiveChartGeoMap\LiveChartGeoMap\obj\Debug\LiveChartGeoMap.exe
 C:\Users\Mensi\source\repos\LiveChartGeoMap\LiveChartGeoMap\obj\Debug\LiveChartGeoMap.pdb
+C:\Users\Mensi\source\repos\LiveChartGeoMap\LiveChartGeoMap\bin\Debug\world.xml
+C:\Users\Mensi\source\repos\LiveChartGeoMap\LiveChartGeoMap\bin\Debug\LiveCharts.dll
+C:\Users\Mensi\source\repos\LiveChartGeoMap\LiveChartGeoMap\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Mensi\source\repos\LiveChartGeoMap\LiveChartGeoMap\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Mensi\source\repos\LiveChartGeoMap\LiveChartGeoMap\bin\Debug\LiveCharts.pdb
+C:\Users\Mensi\source\repos\LiveChartGeoMap\LiveChartGeoMap\bin\Debug\LiveCharts.xml
+C:\Users\Mensi\source\repos\LiveChartGeoMap\LiveChartGeoMap\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Mensi\source\repos\LiveChartGeoMap\LiveChartGeoMap\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Mensi\source\repos\LiveChartGeoMap\LiveChartGeoMap\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Mensi\source\repos\LiveChartGeoMap\LiveChartGeoMap\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Mensi\source\repos\LiveChartGeoMap\LiveChartGeoMap\obj\Debug\LiveChartGeoMap.csproj.CopyComplete
+C:\Users\Mensi\source\repos\LiveChartGeoMap\LiveChartGeoMap\bin\Debug\Turkey.xml
